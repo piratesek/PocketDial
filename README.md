@@ -1,2 +1,2 @@
 # PocketDial
-The complete tool to having a dial in your pocket.
+For now upload the sketch via arduino IDE. More documentation coming.
