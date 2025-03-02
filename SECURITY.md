@@ -2,13 +2,12 @@
 
 ## Supported Versions
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+Current supported versions of PocketDial firmware.
 
 | Version | Supported          |
 | ------- | ------------------ |
 | 0.0.1 | :white_check_mark: |
-|  | :x:                |
+|  0.0.0| :x:                |
 |  | :white_check_mark: |
 |  | :x:                |
 
